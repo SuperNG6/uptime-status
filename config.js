@@ -33,8 +33,8 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
-      url: 'https://status.org.cn/'
+      text: 'sleele的博客',
+      url: 'https://sleele.com'
     },
     {
       text: 'GitHub',
